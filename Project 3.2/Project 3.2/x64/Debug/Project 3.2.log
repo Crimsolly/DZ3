@@ -1,0 +1,4 @@
+﻿  Project 3.2.cpp
+C:\Users\NewUser\Desktop\GeekBrains\Visual Studio\Project 3.2\Project 3.2\Project 3.2.cpp(12,11): error C2371: x: переопределение; различные базовые типы
+C:\Users\NewUser\Desktop\GeekBrains\Visual Studio\Project 3.2\Project 3.2\Project 3.2.cpp(11): message : см. объявление "x"
+C:\Users\NewUser\Desktop\GeekBrains\Visual Studio\Project 3.2\Project 3.2\Project 3.2.cpp(13,18): error C2088: <<: недопустимо для class
